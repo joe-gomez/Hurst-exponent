@@ -1,10 +1,5 @@
 # 📊 Streamlit App: Hurst Exponent of a Story's Sentiment Trajectory
 
-import sys
-!{sys.executable} -m pip install streamlit nltk matplotlib numpy hurst
-import sys
-!{sys.executable} -m pip install streamlit nltk matplotlib numpy hurst
-
 
 import streamlit as st
 import nltk
